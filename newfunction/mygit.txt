@@ -1,0 +1,7 @@
+class BanTian{
+
+	private int id;
+	private String name;
+	private int age;
+	private double money;
+}
