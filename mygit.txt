@@ -4,4 +4,5 @@ class BanTian{
 	private String name;
 	private int age;
 	private String zhiye;
+	private String sex;
 }
